@@ -131,7 +131,3 @@ O projeto também evidenciou a importância das etapas de pré-processamento, no
 
 Portanto, conclui-se que a solução desenvolvida é viável, funcional e aplicável em contextos reais, demonstrando o potencial da Ciência de Dados como ferramenta estratégica para análise e segmentação de clientes.
 ---
-
-# Autor
-
-Igor Lins
