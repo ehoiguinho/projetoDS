@@ -125,11 +125,9 @@ A aplicação do algoritmo K-Means permitiu identificar padrões relevantes entr
 
 Os resultados obtidos mostraram que a clusterização pode auxiliar empresas na tomada de decisões, permitindo compreender melhor o comportamento dos clientes e desenvolver abordagens mais eficientes para diferentes perfis financeiros.
 
-Além disso, a criação da aplicação web utilizando Streamlit tornou a solução prática e interativa, aproximando o projeto de cenários reais utilizados no mercado de tecnologia e análise de dados.
+A criação da aplicação web utilizando Streamlit tornou a solução prática e interativa, aproximando o projeto de cenários reais utilizados no mercado de tecnologia e análise de dados.
 
-Do ponto de vista técnico, o projeto também evidenciou a importância das etapas de pré-processamento, normalização e tratamento de dados para o bom desempenho dos algoritmos de Machine Learning.
-
-Como possibilidades de evolução futura, a solução pode incorporar novos algoritmos de agrupamento, integração com bancos de dados em tempo real, dashboards analíticos mais avançados e deploy em nuvem para utilização em ambientes corporativos.
+O projeto também evidenciou a importância das etapas de pré-processamento, normalização e tratamento de dados para o bom desempenho dos algoritmos de Machine Learning.
 
 Portanto, conclui-se que a solução desenvolvida é viável, funcional e aplicável em contextos reais, demonstrando o potencial da Ciência de Dados como ferramenta estratégica para análise e segmentação de clientes.
 ---
