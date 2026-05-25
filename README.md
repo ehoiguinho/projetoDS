@@ -75,7 +75,7 @@ O sistema permite:
 ## 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git https://github.com/ehoiguinho/projetoDS.git
 ```
 
 ---
